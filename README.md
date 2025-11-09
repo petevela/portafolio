@@ -1,6 +1,6 @@
 # 🌐 Portafolio Personal - Pedro Velasco
 
-Este es mi **portafolio personal**, desarrollado con **Next.js 14**, **TypeScript**, **Tailwind CSS** y **TanStack Query**.  
+Este es mi **portafolio personal**, desarrollado con **Next.js**, **TypeScript**, **Tailwind CSS** y **TanStack Query**.  
 El sitio presenta mi perfil profesional como **Desarrollador Full-Stack especializado en React y Node.js**, además de mis proyectos, experiencia y formas de contacto.
 
 ---
