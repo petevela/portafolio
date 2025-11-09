@@ -7,7 +7,7 @@ El sitio presenta mi perfil profesional como **Desarrollador Full-Stack especial
 
 ## 🚀 Tecnologías utilizadas
 
-- ⚡ **Next.js 14 (App Router)** – Framework React moderno para SSR y rutas dinámicas.  
+- ⚡ **Next.js** – Framework React moderno para SSR y rutas dinámicas.  
 - 🔷 **TypeScript** – Tipado estático para un desarrollo más seguro y escalable.  
 - 🎨 **Tailwind CSS** – Estilos rápidos, adaptables y con un diseño limpio en tema claro.  
 - 🔁 **TanStack Query** – Gestión eficiente de estados y datos asincrónicos.  
@@ -46,7 +46,7 @@ my-portafolio-next/
 
 1. **Clona el repositorio o descomprime el ZIP:**
    ```bash
-   git clone https://github.com/tu-usuario/my-portafolio-next.git
+   git clone https://github.com/petevela/portafolio.git
    cd my-portafolio-next
    ```
 
@@ -80,21 +80,11 @@ my-portafolio-next/
 
 ---
 
-## 🌍 Despliegue en Vercel
-
-Puedes desplegar este portafolio fácilmente usando [Vercel](https://vercel.com):
-
-1. Crea una cuenta en Vercel.
-2. Importa este proyecto desde GitHub.
-3. ¡Automáticamente se compila y publica en minutos!
-
----
-
 ## 👨‍💻 Autor
 
 **Pedro Velasco**  
 Desarrollador Full-Stack especializado en React y Node.js.  
-📧 [Tu correo o enlace de contacto]  
+📧 [vpedroernesto555@gmail.com]  
 🔗 [LinkedIn / GitHub / Portafolio]
 
 ---
